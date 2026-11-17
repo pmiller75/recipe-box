@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Local data and logs
+data/
+logs/
+
+# Real env files and secrets
+config/*.env
+!.gitignore
